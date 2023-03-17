@@ -1,0 +1,33 @@
+.row{
+    display: flex;
+    margin: .25rem;
+}
+
+.input{
+    width: 12rem;
+}
+.boutton{
+    margin: 1rem;
+}
+.row2{
+    display: flex;
+}
+.container1{
+    max-width: 60rem;
+    margin: auto;
+
+}
+.card{
+    padding: .25rem;
+}
+.couleur{
+    margin: auto;
+}
+.container{
+    border: red solid 1px;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem auto;
+    width: 25rem;
+
+}
